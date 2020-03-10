@@ -1,0 +1,1258 @@
+{
+   "tyt": {
+      "tytturkce": [
+         {
+            "konu": "Sözcükte Anlam"
+         },
+         {
+            "konu": "Cümlede Anlam"
+         },
+         {
+            "konu": "Paragraf"
+         },
+         {
+            "konu": "Ses Bilgisi"
+         },
+         {
+            "konu": "Yazım Kuralları"
+         },
+         {
+            "konu": "Noktalama İşaretleri"
+         },
+         {
+            "konu": "Sözcükte Yapı"
+         },
+         {
+            "konu": "İsimler"
+         },
+         {
+            "konu": "Sıfatlar"
+         },
+         {
+            "konu": "Zamirler"
+         },
+         {
+            "konu": "Zarflar"
+         },
+         {
+            "konu": "Edat Bağlaç Ünlem"
+         },
+         {
+            "konu": "Fiiller"
+         },
+         {
+            "konu": "Fiilde Çatı"
+         },
+         {
+            "konu": "Fiilimsiler"
+         },
+         {
+            "konu": "Cümlenin Ögeleri"
+         },
+         {
+            "konu": "Cümle Türleri"
+         },
+         {
+            "konu": "Anlatım Bozukluğu"
+         }
+      ],
+      "tytmat": [
+         {
+            "konu": "Temel Kavramlar"
+         },
+         {
+            "konu": "Sayı Basamakları"
+         },
+         {
+            "konu": "Bölme ve Bölünebilme"
+         },
+         {
+            "konu": "OBEB-OKEK"
+         },
+         {
+            "konu": "Rasyonel Sayılar"
+         },
+         {
+            "konu": "Ondalık Sayılar"
+         },
+         {
+            "konu": "Basit Eşitsizlikler"
+         },
+         {
+            "konu": "Mutlak Değer"
+         },
+         {
+            "konu": "Üslü Sayılar"
+         },
+         {
+            "konu": "Köklü Sayılar"
+         },
+         {
+            "konu": "Çarpanlara Ayırma"
+         },
+         {
+            "konu": "Oran Orantı"
+         },
+         {
+            "konu": "Denklem Çözme"
+         },
+         {
+            "konu": "Problemler"
+         },
+         {
+            "konu": "Kümeler"
+         },
+         {
+            "konu": "Fonksiyonlar"
+         },
+         {
+            "konu": "Permütasyon"
+         },
+         {
+            "konu": "Kombinasyon"
+         },
+         {
+            "konu": "Binom"
+         },
+         {
+            "konu": "Olasılık"
+         },
+         {
+            "konu": "İstatistik"
+         },
+         {
+            "konu": "Polinomlar"
+         },
+         {
+            "konu": "2. Dereceden Denklemler"
+         },
+         {
+            "konu": "Karmaşık Sayılar"
+         },
+         {
+            "konu": "Parabol"
+         },
+         {
+            "konu": "Doğruda ve Üçgende Açılar"
+         },
+         {
+            "konu": "Dik ve Özel Üçgenler"
+         },
+         {
+            "konu": "Dik Üçgende Trigonometrik Bağıntılar"
+         },
+         {
+            "konu": "İkizkenar ve Eşkenar Üçgen"
+         },
+         {
+            "konu": "Üçgende Alanlar"
+         },
+         {
+            "konu": "Üçgende Açırortay Bağıntıları"
+         },
+         {
+            "konu": "Üçgende Kenarortay Bağıntıları"
+         },
+         {
+            "konu": "Üçgende Eşlik Benzerlik"
+         },
+         {
+            "konu": "Üçgende Açı Kenar Bağıntıları"
+         },
+         {
+            "konu": "Çokgenler"
+         },
+         {
+            "konu": "Dörtgenler"
+         },
+         {
+            "konu": "Yamuk"
+         },
+         {
+            "konu": "Paralelkenar"
+         },
+         {
+            "konu": "Eşkenar Dörgen - Deltoid"
+         },
+         {
+            "konu": "Dikdörtgen"
+         },
+         {
+            "konu": "Çemberde Açılar"
+         },
+         {
+            "konu": "Çemberde Uzunluk"
+         },
+         {
+            "konu": "Daire"
+         },
+         {
+            "konu": "Prizmalar"
+         },
+         {
+            "konu": "Küre"
+         },
+         {
+            "konu": "Noktanın Analitiği"
+         },
+         {
+            "konu": "Doğrunun Analitiği"
+         },
+         {
+            "konu": "Tekrar Eden Dönen Yansıyan Şekiller"
+         }
+      ],
+      "tyttar": [
+         {
+            "konu": "Tarih Bilimine Giriş"
+         },
+         {
+            "konu": "Uyg. Doğuşu ve İlk Uygarlıklar"
+         },
+         {
+            "konu": "Eski Türk Tarihi"
+         },
+         {
+            "konu": "İslam Tarihi ve Uygarlığı"
+         },
+         {
+            "konu": "Türk-İslam Devletleri (X-XIII. Yy}"
+         },
+         {
+            "konu": "Türkiye Tarihi (XI-XIII. Yy}"
+         },
+         {
+            "konu": "Beylikten Devlete(1300-1453)"
+         },
+         {
+            "konu": "Dünya GÜcü Osmanlı Devleti(1453-1600)"
+         },
+         {
+            "konu": "Yeniçağ Avrupası(1453-1789)"
+         },
+         {
+            "konu": "Osm. Devl. Kültür ve Uygarlık"
+         },
+         {
+            "konu": "Arayış Yılları(17.yüzyıl)"
+         },
+         {
+            "konu": "18. Yüzyılda Değişim ve Diplomasi"
+         },
+         {
+            "konu": "Yakın Çağ Avrupası"
+         },
+         {
+            "konu": "En Uzun Yüzyıl(1800-1922)"
+         },
+         {
+            "konu": "20. yüzyıl Başlarında Osmanlı Devleti"
+         },
+         {
+            "konu": "1. Dünya Savaşı"
+         },
+         {
+            "konu": "Milli Mücadele'nin Hazırlık Dönemi"
+         },
+         {
+            "konu": "Kurtuluş Savaşı'nda Cepheler"
+         },
+         {
+            "konu": "Türk İnkılabı"
+         },
+         {
+            "konu": "Atatürkçülük ve Atatürk İlkeleri"
+         },
+         {
+            "konu": "Türk Dış Politikası"
+         }
+      ],
+      "tytcog": [
+         {
+            "konu": "Harita Bilgisi"
+         },
+         {
+            "konu": "Doğanın Şekli ve Hareketleri"
+         },
+         {
+            "konu": "İklim Bilgisi"
+         },
+         {
+            "konu": "Türkiyenin İklimi ve Yer Şekilleri"
+         },
+         {
+            "konu": "Yerin Şekillenmesi"
+         },
+         {
+            "konu": "İç ve Dış Kuvvetler"
+         },
+         {
+            "konu": "Toprak Tipleri"
+         },
+         {
+            "konu": "Nüfus"
+         },
+         {
+            "konu": "Ortak Payda:Bölge"
+         },
+         {
+            "konu": "Ulaşım Yolları"
+         },
+         {
+            "konu": "Çevre ve İnsan"
+         },
+         {
+            "konu": "Doğal Afetler"
+         }
+      ],
+      "tytfel": [
+         {
+            "konu": "Felsefe'nin Konusu"
+         },
+         {
+            "konu": "Bilgi Felsefesi"
+         },
+         {
+            "konu": "Varlık Felsefesi"
+         },
+         {
+            "konu": "Ahlak Felsefesi"
+         },
+         {
+            "konu": "Sanat Felsefesi"
+         },
+         {
+            "konu": "Din Felsefesi"
+         },
+         {
+            "konu": "Siyaset Felsefesi"
+         },
+         {
+            "konu": "Bilim Felsefesi"
+         }
+      ],
+      "tytfiz": [
+         {
+            "konu": "Fizik Bilimine Giriş"
+         },
+         {
+            "konu": "Vektör-Kuvvet ve Kuvvet Dengesi"
+         },
+         {
+            "konu": "Basit Makineler"
+         },
+         {
+            "konu": "Madde ve Özellikleri"
+         },
+         {
+            "konu": "Sıvıların Kaldırma Kuvveti"
+         },
+         {
+            "konu": "Basınç"
+         },
+         {
+            "konu": "Isı ve Sıcaklık"
+         },
+         {
+            "konu": "Genleşme"
+         },
+         {
+            "konu": "Doğrusal Hareket"
+         },
+         {
+            "konu": "İş Enerji"
+         },
+         {
+            "konu": "Işık ve Gölge"
+         },
+         {
+            "konu": "Düzlem Ayna"
+         },
+         {
+            "konu": "Küresel Aynalar"
+         },
+         {
+            "konu": "Kırılma ve Renkler"
+         },
+         {
+            "konu": "Mercekler ve Aydınlanma"
+         },
+         {
+            "konu": "Elektrostatik"
+         },
+         {
+            "konu": "Elektrik Akımı ve Devreler"
+         },
+         {
+            "konu": "Temel Dalga Bilgileri"
+         },
+         {
+            "konu": "Yay Dalgaları"
+         },
+         {
+            "konu": "Su Dalgaları"
+         },
+         {
+            "konu": "Ses ve Deprem Dalgaları"
+         }
+      ],
+      "tytkim": [
+         {
+            "konu": "Kimya Bilimi"
+         },
+         {
+            "konu": "Atomun Yapısı"
+         },
+         {
+            "konu": "Periyodik Sistem"
+         },
+         {
+            "konu": "Kimyasal Türler Arası Etkileşim"
+         },
+         {
+            "konu": "Asitler Bazlar ve Tuzlar"
+         },
+         {
+            "konu": "Bileşikler"
+         },
+         {
+            "konu": "Kimyasal Tepkimeler"
+         },
+         {
+            "konu": "Kimyanın Temel Yasaları"
+         },
+         {
+            "konu": "Maddenin Halleri"
+         },
+         {
+            "konu": "Karışımlar"
+         },
+         {
+            "konu": "Endüstride ve Canlılarda Enerji"
+         },
+         {
+            "konu": "Kimya Heryerde"
+         }
+      ],
+      "tytbio": [
+         {
+            "konu": "Biyoloji Bilimi,İnorganik Bileşikler"
+         },
+         {
+            "konu": "Organik Bileşikler"
+         },
+         {
+            "konu": "Hücre"
+         },
+         {
+            "konu": "Madde Geçişleri"
+         },
+         {
+            "konu": "DNA-RNA"
+         },
+         {
+            "konu": "Protein Sentezi"
+         },
+         {
+            "konu": "Enzimler"
+         },
+         {
+            "konu": "Canlıların Sınıflandırılması"
+         },
+         {
+            "konu": "Ekoloji"
+         },
+         {
+            "konu": "Hücre Bölünmeleri"
+         },
+         {
+            "konu": "Eşeyli Eşeysiz Üreme"
+         },
+         {
+            "konu": "İnsanda Üreme ve Gelişme"
+         },
+         {
+            "konu": "Mendel Genetiği"
+         },
+         {
+            "konu": "Kan Grupları"
+         },
+         {
+            "konu": "Cinsiyete Bağlı Kalıtım"
+         }
+      ]
+   },
+   "ayt": {
+      "aytmat": [
+         {
+            "konu": "Sayılar"
+         },
+         {
+            "konu": "Sayı Basamakları"
+         },
+         {
+            "konu": "Bölünebilme"
+         },
+         {
+            "konu": "OBEB-OKEK"
+         },
+         {
+            "konu": "Rasyonel Sayılar"
+         },
+         {
+            "konu": "Basit Eşitsizlikler"
+         },
+         {
+            "konu": "Mutlak Değer"
+         },
+         {
+            "konu": "Üslü Sayılar"
+         },
+         {
+            "konu": "Köklü Sayılar"
+         },
+         {
+            "konu": "Çarpanlara Ayırma"
+         },
+         {
+            "konu": "Oran Orantı"
+         },
+         {
+            "konu": "Denklem Çözme"
+         },
+         {
+            "konu": "Kümeler"
+         },
+         {
+            "konu": "Fonksiyonlar"
+         },
+         {
+            "konu": "Permütasyon"
+         },
+         {
+            "konu": "Kombinasyon"
+         },
+         {
+            "konu": "Binom"
+         },
+         {
+            "konu": "Olasılık"
+         },
+         {
+            "konu": "İstatistik"
+         },
+         {
+            "konu": "2. Dereceden Denklemler"
+         },
+         {
+            "konu": "Karmaşık Sayılar"
+         },
+         {
+            "konu": "Parabol"
+         },
+         {
+            "konu": "Polinomlar"
+         },
+         {
+            "konu": "Mantık"
+         },
+         {
+            "konu": "Modüler Aritmetik"
+         },
+         {
+            "konu": "Eşitsizlikler"
+         },
+         {
+            "konu": "Logaritma"
+         },
+         {
+            "konu": "Diziler"
+         },
+         {
+            "konu": "Seriler"
+         },
+         {
+            "konu": "Limit ve Süreklilik"
+         },
+         {
+            "konu": "Türev"
+         },
+         {
+            "konu": "İntegral"
+         },
+         {
+            "konu": "Doğruda ve Üçgende Açılar"
+         },
+         {
+            "konu": "Dik ve Özel Üçgenler"
+         },
+         {
+            "konu": "Dik Üçgende Trigonometrik Bağıntılar"
+         },
+         {
+            "konu": "İkizkenar ve Eşkenar Üçgen"
+         },
+         {
+            "konu": "Üçgende Alanlar"
+         },
+         {
+            "konu": "Üçgende Açıortay Bağıntıları"
+         },
+         {
+            "konu": "Üçgende Kenarortay Bağıntıları"
+         },
+         {
+            "konu": "Üçgende Eşlik ve Benzerlik"
+         },
+         {
+            "konu": "Üçgende Açı Kenar Bağıntıları"
+         },
+         {
+            "konu": "Çokgenler"
+         },
+         {
+            "konu": "Dörtgenler"
+         },
+         {
+            "konu": "Yamuk"
+         },
+         {
+            "konu": "Paralelkenar"
+         },
+         {
+            "konu": "Eşkenar Dörtgen Deltoid"
+         },
+         {
+            "konu": "Dikdörtgen"
+         },
+         {
+            "konu": "Çemberde Açılar"
+         },
+         {
+            "konu": "Çemberde Uzunluk"
+         },
+         {
+            "konu": "Daire"
+         },
+         {
+            "konu": "Prizmalar"
+         },
+         {
+            "konu": "Küre"
+         },
+         {
+            "konu": "Noktanın Analitiği"
+         },
+         {
+            "konu": "Doğrunun Analitiği"
+         },
+         {
+            "konu": "Tekrar Eden Dönen Yansıyan Şekiller"
+         },
+         {
+            "konu": "Uzay Geometrisi"
+         },
+         {
+            "konu": "Dönüşümlerde Geometri"
+         },
+         {
+            "konu": "Trigonometri"
+         },
+         {
+            "konu": "Çemberin Analitiği"
+         },
+         {
+            "konu": "Konikler"
+         }
+      ],
+      "aytedeb": [
+         {
+            "konu": "Güzel Sanatlar ve Edebiyat"
+         },
+         {
+            "konu": "Metinlerin Sınıflandırılması"
+         },
+         {
+            "konu": "Coşku ve Heyecan Dile Getiren Metinler"
+         },
+         {
+            "konu": "Şiir Bilgisi"
+         },
+         {
+            "konu": "Sözlü Anlatım Türleri"
+         },
+         {
+            "konu": "Edebi Sanatlar"
+         },
+         {
+            "konu": "Nazım Biçimleri ve Türleri"
+         },
+         {
+            "konu": "İslamiyet Kabulü Öncesi Türk Edebiyatı"
+         },
+         {
+            "konu": "İslami Dönem İlk Dil ve Edebiyat Ürünleri"
+         },
+         {
+            "konu": "Oğuz Türkçesinin İlk Ürünleri"
+         },
+         {
+            "konu": "Halk Edebiyati"
+         },
+         {
+            "konu": "Divan Edebiyatı"
+         },
+         {
+            "konu": "Tanzimat Edebiyatı"
+         },
+         {
+            "konu": "Servet-i Fünun Edebiyatı"
+         },
+         {
+            "konu": "Fecri-ti Edebiyatı"
+         },
+         {
+            "konu": "Milli Edebiyat"
+         },
+         {
+            "konu": "Cumhuriyet Döneminde Türk Edebiyatı"
+         },
+         {
+            "konu": "Türkiye Dışındaki Türk Edebiyatı"
+         },
+         {
+            "konu": "Edebi Akımlar"
+         },
+         {
+            "konu": "Dünya Edebiyatı"
+         },
+         {
+            "konu": "Türk Edebiyatı Eser Özetleri"
+         },
+         {
+            "konu": "Türk ve Dünya Edebiyatında İlkler"
+         }
+      ],
+      "aytcog1": [
+         {
+            "konu": "Doğal Sistemler"
+         },
+         {
+            "konu": "Beşeri Sistemler"
+         },
+         {
+            "konu": "Mekansal Sentez Türkiye"
+         },
+         {
+            "konu": "Küresel Ortam: Bölgeler ve Ülkeler"
+         },
+         {
+            "konu": "Çevre ve Toplum"
+         },
+         {
+            "konu": "Ekonomik Faaliyetler"
+         }
+      ],
+      "ayttar1": [
+         {
+            "konu": "Tarih Bilimine Giriş"
+         },
+         {
+            "konu": "Uyg. Doğuşu ve İlk Uygarlıklar"
+         },
+         {
+            "konu": "Eski Türk Tarihi"
+         },
+         {
+            "konu": "İslam Tarihi ve Uygarlığı"
+         },
+         {
+            "konu": "Türk-İslam Devletleri"
+         },
+         {
+            "konu": "Türkiye Tarihi"
+         },
+         {
+            "konu": "Orta Çağ'da Avrupa"
+         },
+         {
+            "konu": "Beylikten Devlete(1300-1453}"
+         },
+         {
+            "konu": "Dünya Gücü Osmanlı Devleti(1453-1600}"
+         },
+         {
+            "konu": "Arayış Yılları(17. Yüzyıl)"
+         },
+         {
+            "konu": "Yeni Çağ'da Avrupa"
+         },
+         {
+            "konu": "Osmanlı Kültür ve Medeniyeti"
+         },
+         {
+            "konu": "Avrupa ve Osmanlı Devleti(18. Yüzyıl)"
+         },
+         {
+            "konu": "En Uzun Yüzyıl(1800-1922)"
+         },
+         {
+            "konu": "1881'den 199'a Mustafa Kemal"
+         },
+         {
+            "konu": "Kurtuluş Savaşı Hazırlık Dönemi"
+         },
+         {
+            "konu": "Kurtuluş Savaşı'nda Cepheler"
+         },
+         {
+            "konu": "Türk İnkılabı"
+         },
+         {
+            "konu": "Atatürkçülük ve Atatürk İlkeleri"
+         },
+         {
+            "konu": "Atatürk Dönemi Türk Dış Politikası"
+         }
+      ],
+      "Say": {
+         "aytfiz": [
+            {
+               "konu": "Vektörler"
+            },
+            {
+               "konu": "Tork"
+            },
+            {
+               "konu": "Ağırlık Merkezi"
+            },
+            {
+               "konu": "Basit Makineler"
+            },
+            {
+               "konu": "Madde ve Özellikleri"
+            },
+            {
+               "konu": "Sıvıların Kaldırma Kuvveti"
+            },
+            {
+               "konu": "Basınç"
+            },
+            {
+               "konu": "Isı ve Sıcaklık"
+            },
+            {
+               "konu": "Genleşme"
+            },
+            {
+               "konu": "Doğrusal Hareket"
+            },
+            {
+               "konu": "Bağıl Hareket"
+            },
+            {
+               "konu": "Dinamik"
+            },
+            {
+               "konu": "Atışlar"
+            },
+            {
+               "konu": "İş Enerji"
+            },
+            {
+               "konu": "Dönme Hareketi"
+            },
+            {
+               "konu": "Basit Harmonik Hareket"
+            },
+            {
+               "konu": "Itma Momentum"
+            },
+            {
+               "konu": "Kütle Çekimi Kepler Büyük Patlama"
+            },
+            {
+               "konu": "Işık ve Gölge"
+            },
+            {
+               "konu": "Düzlem Ayna"
+            },
+            {
+               "konu": "Küresel Aynalar"
+            },
+            {
+               "konu": "Kırılma ve Renkler"
+            },
+            {
+               "konu": "Mercekler ve Aydınlanma"
+            },
+            {
+               "konu": "Elektrostatik"
+            },
+            {
+               "konu": "Elektrik Alan Elektriksel Potansitel ve İş"
+            },
+            {
+               "konu": "Yüklü Parçacıkların Hareketi"
+            },
+            {
+               "konu": "Elektrik Akımı ve Devreler"
+            },
+            {
+               "konu": "Temel Dalga Bilgileri"
+            },
+            {
+               "konu": "Yay Dalgaları"
+            },
+            {
+               "konu": "Su Dalgaları"
+            },
+            {
+               "konu": "Ses ve Deprem Dalgaları"
+            },
+            {
+               "konu": "Manyetizma"
+            },
+            {
+               "konu": "Elektromanyetik İndüksüyon"
+            },
+            {
+               "konu": "Sığaçlar"
+            },
+            {
+               "konu": "Alternatif Akım ve Transformatör"
+            },
+            {
+               "konu": "Dalga Mekaniği"
+            },
+            {
+               "konu": "Elektromanyetik Dalgalar"
+            },
+            {
+               "konu": "Fotoelektrik ve Compton Olayı"
+            },
+            {
+               "konu": "Özel Görelilik"
+            },
+            {
+               "konu": "Atom Modelleri"
+            },
+            {
+               "konu": "Atom Altı Parçacıklar"
+            },
+            {
+               "konu": "Radyoaktivite"
+            },
+            {
+               "konu": "Modern Fizik Uygulamaları"
+            }
+         ],
+         "aytbio": [
+            {
+               "konu": "Biyoloji Bilimi, İnorganik Bileşikler"
+            },
+            {
+               "konu": "Organik Bileşikler"
+            },
+            {
+               "konu": "Hücre"
+            },
+            {
+               "konu": "Madde Geçişleri"
+            },
+            {
+               "konu": "Dna-Rna"
+            },
+            {
+               "konu": "Protein Sentezi"
+            },
+            {
+               "konu": "Enzimler"
+            },
+            {
+               "konu": "Canlıların Sınıflandırılması"
+            },
+            {
+               "konu": "Ekoloji"
+            },
+            {
+               "konu": "Hücre Bölünmeleri"
+            },
+            {
+               "konu": "Eşeysiz-Eşeyli Üreme"
+            },
+            {
+               "konu": "İnsanda üreme ve Gelişme"
+            },
+            {
+               "konu": "Mendel Genetiği"
+            },
+            {
+               "konu": "Kan Grupları"
+            },
+            {
+               "konu": "Cinsiyete Bağlı Kalıtım"
+            },
+            {
+               "konu": "Biyoteknoloji"
+            },
+            {
+               "konu": "Solunum"
+            },
+            {
+               "konu": "Fotosentez"
+            },
+            {
+               "konu": "Kemosentez"
+            },
+            {
+               "konu": "Sistemler"
+            },
+            {
+               "konu": "Duyu Organları"
+            },
+            {
+               "konu": "Bitki Biyolojisi"
+            }
+         ],
+         "aytkim": [
+            {
+               "konu": "Modern Atom Teorisi"
+            },
+            {
+               "konu": "Kimyasal Hesaplamalar"
+            },
+            {
+               "konu": "Gazlar"
+            },
+            {
+               "konu": "Sıvı Çözeltiler"
+            },
+            {
+               "konu": "Kimya ve Enerji"
+            },
+            {
+               "konu": "Tepkimelerde Hız"
+            },
+            {
+               "konu": "Kimyasal Denge"
+            },
+            {
+               "konu": "Sıvı Çözeltilerde Denge"
+            },
+            {
+               "konu": "Kimya ve Elektrik"
+            },
+            {
+               "konu": "Karbon Kimyasına Giriş"
+            },
+            {
+               "konu": "Organik Kimya"
+            },
+            {
+               "konu": "Hayatımızdaki Kimya"
+            }
+         ]
+      },
+      "soz": {
+         "ayttar2": [
+            {
+               "konu": "Tarih Bilimi"
+            },
+            {
+               "konu": "Uygarlığın Doğuşu ve İlk Uygarlıklar"
+            },
+            {
+               "konu": "İlk Türk Devletleri"
+            },
+            {
+               "konu": "İslam Tarihi ve Uygarlığı"
+            },
+            {
+               "konu": "Türk-İslam Devletleri"
+            },
+            {
+               "konu": "Türkiye Tarihi"
+            },
+            {
+               "konu": "Beylikten Devlete (1300-1453)"
+            },
+            {
+               "konu": "Dünya Gücü: Osmanlı Devleti (1453-1600)"
+            },
+            {
+               "konu": "Arayış Yılları (17. Yüzyıl)"
+            },
+            {
+               "konu": "Avrupa ve Osmanlı Devleti (18. Yüzyıl)"
+            },
+            {
+               "konu": "En Uzun Yüzyıl (1800-1922)"
+            },
+            {
+               "konu": "1881’den 1919’a Mustafa Kemal"
+            },
+            {
+               "konu": "Milli Mücadele'nin Hazırlık Dönemi"
+            },
+            {
+               "konu": "Kurtuluş Savaşı'nda Cepheler"
+            },
+            {
+               "konu": "Türk İnkılabı"
+            },
+            {
+               "konu": "Atatürkçülük ve Atatürk İlkeleri"
+            },
+            {
+               "konu": "Türk Dış Politikası"
+            },
+            {
+               "konu": "Atatürk'ün Ölümü"
+            },
+            {
+               "konu": "Yüzyılın Başlarında Dünya"
+            },
+            {
+               "konu": "İkinci Dünya Savaşı"
+            },
+            {
+               "konu": "Soğuk Savaş Dönemi"
+            },
+            {
+               "konu": "Yumuşama Dönemi ve Sonrası"
+            },
+            {
+               "konu": "Küreselleşen Dünya"
+            },
+            {
+               "konu": "Türklerde Devlet Teşkilatı"
+            },
+            {
+               "konu": "Türklerde Toplum Yapısı"
+            },
+            {
+               "konu": "Türklerde Hukuk"
+            },
+            {
+               "konu": "Türklerde Ekonomi"
+            },
+            {
+               "konu": "Türklerde Eğitim"
+            },
+            {
+               "konu": "Türklerde Sanat"
+            }
+         ],
+         "aytcog2": [
+            {
+               "konu": "Doğal Sistemler"
+            },
+            {
+               "konu": "Beşeri Sistemler"
+            },
+            {
+               "konu": "Mekansal Sentez Türkiye"
+            },
+            {
+               "konu": "Küresel Ortam: Bölgeler ve Ülkeler"
+            },
+            {
+               "konu": "Çevre ve Toplum"
+            },
+            {
+               "konu": "Ekonomik Faaliyetler"
+            }
+         ],
+         "aytfel": [
+            {
+               "konu": "Felsefenin Alanı"
+            },
+            {
+               "konu": "Bilgi Felsefesi"
+            },
+            {
+               "konu": "Bilim Felsefesi"
+            },
+            {
+               "konu": "Varlık Felsefesi"
+            },
+            {
+               "konu": "Ahlak Felsefesi"
+            },
+            {
+               "konu": "Siyaset Felsefesi"
+            },
+            {
+               "konu": "Sanat Felsefesi"
+            },
+            {
+               "konu": "Din Felsefesi"
+            },
+            {
+               "konu": "Mantığa Giriş"
+            },
+            {
+               "konu": "Klasik Mantık"
+            },
+            {
+               "konu": "Mantık ve Dil"
+            },
+            {
+               "konu": "Sembolik Mantık"
+            },
+            {
+               "konu": "Psikoloji Bilimini Tanıyalım"
+            },
+            {
+               "konu": "Psikolojinin Temel Süreçleri"
+            },
+            {
+               "konu": "Öğrenme Bellek Düşünme"
+            },
+            {
+               "konu": "Ruh Sağlığının Temelleri"
+            },
+            {
+               "konu": "Sosyolojiye Giriş"
+            },
+            {
+               "konu": "Birey ve Toplum"
+            },
+            {
+               "konu": "Toplumsal Yapı"
+            },
+            {
+               "konu": "Toplumsal Değişme ve Gelişme"
+            },
+            {
+               "konu": "Toplum ve Kültür"
+            },
+            {
+               "konu": "Toplumsal Kurumlar"
+            },
+            {
+               "konu": "Kur’an-ı Kerim’in Anlaşılması ve Kavranması"
+            },
+            {
+               "konu": "İnsan ve Din"
+            },
+            {
+               "konu": "İslam ve İbadetler"
+            },
+            {
+               "konu": "İslam Düşüncesinde Yorumlar, Mezhepler"
+            },
+            {
+               "konu": "Muhammed’in Hayatı, Örnekliği ve Onu Anlama."
+            },
+            {
+               "konu": "İslam ve Bilim, Estetik, Barış"
+            },
+            {
+               "konu": "Yaşayan Dinler ve Benzer Özellikleri"
+            }
+         ]
+      }
+   }
+}
