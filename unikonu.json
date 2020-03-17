@@ -2,1255 +2,1659 @@
    "tyt": {
       "tytturkce": [
          {
-            "konu": "Sözcükte Anlam"
+            "konu": "Sözcükte Anlam",
+            "id": "turkce1"
          },
          {
-            "konu": "Cümlede Anlam"
+            "konu": "Cümlede Anlam",
+            "id": "turkce2"
          },
          {
-            "konu": "Paragraf"
+            "konu": "Paragraf",
+            "id": "turkce3"
          },
          {
-            "konu": "Ses Bilgisi"
+            "konu": "Ses Bilgisi",
+            "id": "turkce4"
          },
          {
-            "konu": "Yazım Kuralları"
+            "konu": "Yazım Kuralları",
+            "id": "turkce5"
          },
          {
-            "konu": "Noktalama İşaretleri"
+            "konu": "Noktalama İşaretleri",
+            "id": "turkce6"
          },
          {
-            "konu": "Sözcükte Yapı"
+            "konu": "Sözcükte Yapı",
+            "id": "turkce7"
          },
          {
-            "konu": "İsimler"
+            "konu": "İsimler",
+            "id": "turkce8"
          },
          {
-            "konu": "Sıfatlar"
+            "konu": "Sıfatlar",
+            "id": "turkce9"
          },
          {
-            "konu": "Zamirler"
+            "konu": "Zamirler",
+            "id": "turkce10"
          },
          {
-            "konu": "Zarflar"
+            "konu": "Zarflar",
+            "id": "turkce11"
          },
          {
-            "konu": "Edat Bağlaç Ünlem"
+            "konu": "Edat Bağlaç Ünlem",
+            "id": "turkce12"
          },
          {
-            "konu": "Fiiller"
+            "konu": "Fiiller",
+            "id": "turkce13"
          },
          {
-            "konu": "Fiilde Çatı"
+            "konu": "Fiilde Çatı",
+            "id": "turkce14"
          },
          {
-            "konu": "Fiilimsiler"
+            "konu": "Fiilimsiler",
+            "id": "turkce15"
          },
          {
-            "konu": "Cümlenin Ögeleri"
+            "konu": "Cümlenin Ögeleri",
+            "id": "turkce16"
          },
          {
-            "konu": "Cümle Türleri"
+            "konu": "Cümle Türleri",
+            "id": "turkce17"
          },
          {
-            "konu": "Anlatım Bozukluğu"
+            "konu": "Anlatım Bozukluğu",
+            "id": "turkce18"
          }
       ],
       "tytmat": [
          {
-            "konu": "Temel Kavramlar"
+            "konu": "Temel Kavramlar",
+            "id": "tmat1"
          },
          {
-            "konu": "Sayı Basamakları"
+            "konu": "Sayı Basamakları",
+            "id": "tmat2"
          },
          {
-            "konu": "Bölme ve Bölünebilme"
+            "konu": "Bölme ve Bölünebilme",
+            "id": "tmat3"
          },
          {
-            "konu": "OBEB-OKEK"
+            "konu": "OBEB-OKEK",
+            "id": "tmat4"
          },
          {
-            "konu": "Rasyonel Sayılar"
+            "konu": "Rasyonel Sayılar",
+            "id": "tmat5"
          },
          {
-            "konu": "Ondalık Sayılar"
+            "konu": "Ondalık Sayılar",
+            "id": "tmat6"
          },
          {
-            "konu": "Basit Eşitsizlikler"
+            "konu": "Basit Eşitsizlikler",
+            "id": "tmat7"
          },
          {
-            "konu": "Mutlak Değer"
+            "konu": "Mutlak Değer",
+            "id": "tmat8"
          },
          {
-            "konu": "Üslü Sayılar"
+            "konu": "Üslü Sayılar",
+            "id": "tmat9"
          },
          {
-            "konu": "Köklü Sayılar"
+            "konu": "Köklü Sayılar",
+            "id": "tmat10"
          },
          {
-            "konu": "Çarpanlara Ayırma"
+            "konu": "Çarpanlara Ayırma",
+            "id": "tmat11"
          },
          {
-            "konu": "Oran Orantı"
+            "konu": "Oran Orantı",
+            "id": "tmat12"
          },
          {
-            "konu": "Denklem Çözme"
+            "konu": "Denklem Çözme",
+            "id": "tmat13"
          },
          {
-            "konu": "Problemler"
+            "konu": "Problemler",
+            "id": "tmat14"
          },
          {
-            "konu": "Kümeler"
+            "konu": "Kümeler",
+            "id": "tmat15"
          },
          {
-            "konu": "Fonksiyonlar"
+            "konu": "Fonksiyonlar",
+            "id": "tmat16"
          },
          {
-            "konu": "Permütasyon"
+            "konu": "Permütasyon",
+            "id": "tmat17"
          },
          {
-            "konu": "Kombinasyon"
+            "konu": "Kombinasyon",
+            "id": "tmat18"
          },
          {
-            "konu": "Binom"
+            "konu": "Binom",
+            "id": "tmat19"
          },
          {
-            "konu": "Olasılık"
+            "konu": "Olasılık",
+            "id": "tmat20"
          },
          {
-            "konu": "İstatistik"
+            "konu": "İstatistik",
+            "id": "tmat21"
          },
          {
-            "konu": "Polinomlar"
+            "konu": "Polinomlar",
+            "id": "tmat22"
          },
          {
-            "konu": "2. Dereceden Denklemler"
+            "konu": "2. Dereceden Denklemler",
+            "id": "tmat23"
          },
          {
-            "konu": "Karmaşık Sayılar"
+            "konu": "Karmaşık Sayılar",
+            "id": "tmat24"
          },
          {
-            "konu": "Parabol"
+            "konu": "Parabol",
+            "id": "tmat25"
          },
          {
-            "konu": "Doğruda ve Üçgende Açılar"
+            "konu": "Doğruda ve Üçgende Açılar",
+            "id": "tmat26"
          },
          {
-            "konu": "Dik ve Özel Üçgenler"
+            "konu": "Dik ve Özel Üçgenler",
+            "id": "tmat27"
          },
          {
-            "konu": "Dik Üçgende Trigonometrik Bağıntılar"
+            "konu": "Dik Üçgende Trigonometrik Bağıntılar",
+            "id": "tmat28"
          },
          {
-            "konu": "İkizkenar ve Eşkenar Üçgen"
+            "konu": "İkizkenar ve Eşkenar Üçgen",
+            "id": "tmat29"
          },
          {
-            "konu": "Üçgende Alanlar"
+            "konu": "Üçgende Alanlar",
+            "id": "tmat30"
          },
          {
-            "konu": "Üçgende Açırortay Bağıntıları"
+            "konu": "Üçgende Açırortay Bağıntıları",
+            "id": "tmat31"
          },
          {
-            "konu": "Üçgende Kenarortay Bağıntıları"
+            "konu": "Üçgende Kenarortay Bağıntıları",
+            "id": "tmat32"
          },
          {
-            "konu": "Üçgende Eşlik Benzerlik"
+            "konu": "Üçgende Eşlik Benzerlik",
+            "id": "tmat33"
          },
          {
-            "konu": "Üçgende Açı Kenar Bağıntıları"
+            "konu": "Üçgende Açı Kenar Bağıntıları",
+            "id": "tmat34"
          },
          {
-            "konu": "Çokgenler"
+            "konu": "Çokgenler",
+            "id": "tmat35"
          },
          {
-            "konu": "Dörtgenler"
+            "konu": "Dörtgenler",
+            "id": "tmat36"
          },
          {
-            "konu": "Yamuk"
+            "konu": "Yamuk",
+            "id": "tmat37"
          },
          {
-            "konu": "Paralelkenar"
+            "konu": "Paralelkenar",
+            "id": "tmat38"
          },
          {
-            "konu": "Eşkenar Dörgen - Deltoid"
+            "konu": "Eşkenar Dörgen - Deltoid",
+            "id": "tmat39"
          },
          {
-            "konu": "Dikdörtgen"
+            "konu": "Dikdörtgen",
+            "id": "tmat40"
          },
          {
-            "konu": "Çemberde Açılar"
+            "konu": "Çemberde Açılar",
+            "id": "tmat41"
          },
          {
-            "konu": "Çemberde Uzunluk"
+            "konu": "Çemberde Uzunluk",
+            "id": "tmat42"
          },
          {
-            "konu": "Daire"
+            "konu": "Daire",
+            "id": "tmat43"
          },
          {
-            "konu": "Prizmalar"
+            "konu": "Prizmalar",
+            "id": "tmat44"
          },
          {
-            "konu": "Küre"
+            "konu": "Küre",
+            "id": "tmat45"
          },
          {
-            "konu": "Noktanın Analitiği"
+            "konu": "Noktanın Analitiği",
+            "id": "tmat46"
          },
          {
-            "konu": "Doğrunun Analitiği"
+            "konu": "Doğrunun Analitiği",
+            "id": "tmat47"
          },
          {
-            "konu": "Tekrar Eden Dönen Yansıyan Şekiller"
+            "konu": "Tekrar Eden Dönen Yansıyan Şekiller",
+            "id": "tmat48"
          }
       ],
       "tyttar": [
          {
-            "konu": "Tarih Bilimine Giriş"
+            "konu": "Tarih Bilimine Giriş",
+            "id": "ttar1"
          },
          {
-            "konu": "Uyg. Doğuşu ve İlk Uygarlıklar"
+            "konu": "Uyg. Doğuşu ve İlk Uygarlıklar",
+            "id": "ttar2"
          },
          {
-            "konu": "Eski Türk Tarihi"
+            "konu": "Eski Türk Tarihi",
+            "id": "ttar3"
          },
          {
-            "konu": "İslam Tarihi ve Uygarlığı"
+            "konu": "İslam Tarihi ve Uygarlığı",
+            "id": "ttar4"
          },
          {
-            "konu": "Türk-İslam Devletleri (X-XIII. Yy}"
+            "konu": "Türk-İslam Devletleri (X-XIII. Yy}",
+            "id": "ttar5"
          },
          {
-            "konu": "Türkiye Tarihi (XI-XIII. Yy}"
+            "konu": "Türkiye Tarihi (XI-XIII. Yy}",
+            "id": "ttar6"
          },
          {
-            "konu": "Beylikten Devlete(1300-1453)"
+            "konu": "Beylikten Devlete(1300-1453)",
+            "id": "ttar7"
          },
          {
-            "konu": "Dünya GÜcü Osmanlı Devleti(1453-1600)"
+            "konu": "Dünya GÜcü Osmanlı Devleti(1453-1600)",
+            "id": "ttar8"
          },
          {
-            "konu": "Yeniçağ Avrupası(1453-1789)"
+            "konu": "Yeniçağ Avrupası(1453-1789)",
+            "id": "ttar9"
          },
          {
-            "konu": "Osm. Devl. Kültür ve Uygarlık"
+            "konu": "Osm. Devl. Kültür ve Uygarlık",
+            "id": "ttar10"
          },
          {
-            "konu": "Arayış Yılları(17.yüzyıl)"
+            "konu": "Arayış Yılları(17.yüzyıl)",
+            "id": "ttar11"
          },
          {
-            "konu": "18. Yüzyılda Değişim ve Diplomasi"
+            "konu": "18. Yüzyılda Değişim ve Diplomasi",
+            "id": "ttar12"
          },
          {
-            "konu": "Yakın Çağ Avrupası"
+            "konu": "Yakın Çağ Avrupası",
+            "id": "ttar13"
          },
          {
-            "konu": "En Uzun Yüzyıl(1800-1922)"
+            "konu": "En Uzun Yüzyıl(1800-1922)",
+            "id": "ttar14"
          },
          {
-            "konu": "20. yüzyıl Başlarında Osmanlı Devleti"
+            "konu": "20. yüzyıl Başlarında Osmanlı Devleti",
+            "id": "ttar15"
          },
          {
-            "konu": "1. Dünya Savaşı"
+            "konu": "1. Dünya Savaşı",
+            "id": "ttar16"
          },
          {
-            "konu": "Milli Mücadele'nin Hazırlık Dönemi"
+            "konu": "Milli Mücadele'nin Hazırlık Dönemi",
+            "id": "ttar17"
          },
          {
-            "konu": "Kurtuluş Savaşı'nda Cepheler"
+            "konu": "Kurtuluş Savaşı'nda Cepheler",
+            "id": "ttar18"
          },
          {
-            "konu": "Türk İnkılabı"
+            "konu": "Türk İnkılabı",
+            "id": "ttar19"
          },
          {
-            "konu": "Atatürkçülük ve Atatürk İlkeleri"
+            "konu": "Atatürkçülük ve Atatürk İlkeleri",
+            "id": "ttar20"
          },
          {
-            "konu": "Türk Dış Politikası"
+            "konu": "Türk Dış Politikası",
+            "id": "ttar21"
          }
       ],
       "tytcog": [
          {
-            "konu": "Harita Bilgisi"
+            "konu": "Harita Bilgisi",
+            "id": "tcog1"
          },
          {
-            "konu": "Doğanın Şekli ve Hareketleri"
+            "konu": "Doğanın Şekli ve Hareketleri",
+            "id": "tcog2"
          },
          {
-            "konu": "İklim Bilgisi"
+            "konu": "İklim Bilgisi",
+            "id": "tcog3"
          },
          {
-            "konu": "Türkiyenin İklimi ve Yer Şekilleri"
+            "konu": "Türkiyenin İklimi ve Yer Şekilleri",
+            "id": "tcog4"
          },
          {
-            "konu": "Yerin Şekillenmesi"
+            "konu": "Yerin Şekillenmesi",
+            "id": "tcog5"
          },
          {
-            "konu": "İç ve Dış Kuvvetler"
+            "konu": "İç ve Dış Kuvvetler",
+            "id": "tcog6"
          },
          {
-            "konu": "Toprak Tipleri"
+            "konu": "Toprak Tipleri",
+            "id": "tcog7"
          },
          {
-            "konu": "Nüfus"
+            "konu": "Nüfus",
+            "id": "tcog8"
          },
          {
-            "konu": "Ortak Payda:Bölge"
+            "konu": "Ortak Payda:Bölge",
+            "id": "tcog9"
          },
          {
-            "konu": "Ulaşım Yolları"
+            "konu": "Ulaşım Yolları",
+            "id": "tcog10"
          },
          {
-            "konu": "Çevre ve İnsan"
+            "konu": "Çevre ve İnsan",
+            "id": "tcog11"
          },
          {
-            "konu": "Doğal Afetler"
+            "konu": "Doğal Afetler",
+            "id": "tcog12"
          }
       ],
       "tytfel": [
          {
-            "konu": "Felsefe'nin Konusu"
+            "konu": "Felsefe'nin Konusu",
+            "id": "tfel1"
          },
          {
-            "konu": "Bilgi Felsefesi"
+            "konu": "Bilgi Felsefesi",
+            "id": "tfel2"
          },
          {
-            "konu": "Varlık Felsefesi"
+            "konu": "Varlık Felsefesi",
+            "id": "tfel3"
          },
          {
-            "konu": "Ahlak Felsefesi"
+            "konu": "Ahlak Felsefesi",
+            "id": "tfel4"
          },
          {
-            "konu": "Sanat Felsefesi"
+            "konu": "Sanat Felsefesi",
+            "id": "tfel5"
          },
          {
-            "konu": "Din Felsefesi"
+            "konu": "Din Felsefesi",
+            "id": "tfel6"
          },
          {
-            "konu": "Siyaset Felsefesi"
+            "konu": "Siyaset Felsefesi",
+            "id": "tfel7"
          },
          {
-            "konu": "Bilim Felsefesi"
+            "konu": "Bilim Felsefesi",
+            "id": "tfel8"
          }
       ],
       "tytfiz": [
          {
-            "konu": "Fizik Bilimine Giriş"
+            "konu": "Fizik Bilimine Giriş",
+            "id": "tfiz1"
          },
          {
-            "konu": "Vektör-Kuvvet ve Kuvvet Dengesi"
+            "konu": "Vektör-Kuvvet ve Kuvvet Dengesi",
+            "id": "tfiz2"
          },
          {
-            "konu": "Basit Makineler"
+            "konu": "Basit Makineler",
+            "id": "tfiz3"
          },
          {
-            "konu": "Madde ve Özellikleri"
+            "konu": "Madde ve Özellikleri",
+            "id": "tfiz4"
          },
          {
-            "konu": "Sıvıların Kaldırma Kuvveti"
+            "konu": "Sıvıların Kaldırma Kuvveti",
+            "id": "tfiz5"
          },
          {
-            "konu": "Basınç"
+            "konu": "Basınç",
+            "id": "tfiz6"
          },
          {
-            "konu": "Isı ve Sıcaklık"
+            "konu": "Isı ve Sıcaklık",
+            "id": "tfiz7"
          },
          {
-            "konu": "Genleşme"
+            "konu": "Genleşme",
+            "id": "tfiz8"
          },
          {
-            "konu": "Doğrusal Hareket"
+            "konu": "Doğrusal Hareket",
+            "id": "tfiz9"
          },
          {
-            "konu": "İş Enerji"
+            "konu": "İş Enerji",
+            "id": "tfiz10"
          },
          {
-            "konu": "Işık ve Gölge"
+            "konu": "Işık ve Gölge",
+            "id": "tfiz11"
          },
          {
-            "konu": "Düzlem Ayna"
+            "konu": "Düzlem Ayna",
+            "id": "tfiz12"
          },
          {
-            "konu": "Küresel Aynalar"
+            "konu": "Küresel Aynalar",
+            "id": "tfiz13"
          },
          {
-            "konu": "Kırılma ve Renkler"
+            "konu": "Kırılma ve Renkler",
+            "id": "tfiz14"
          },
          {
-            "konu": "Mercekler ve Aydınlanma"
+            "konu": "Mercekler ve Aydınlanma",
+            "id": "tfiz15"
          },
          {
-            "konu": "Elektrostatik"
+            "konu": "Elektrostatik",
+            "id": "tfiz16"
          },
          {
-            "konu": "Elektrik Akımı ve Devreler"
+            "konu": "Elektrik Akımı ve Devreler",
+            "id": "tfiz17"
          },
          {
-            "konu": "Temel Dalga Bilgileri"
+            "konu": "Temel Dalga Bilgileri",
+            "id": "tfiz18"
          },
          {
-            "konu": "Yay Dalgaları"
+            "konu": "Yay Dalgaları",
+            "id": "tfiz19"
          },
          {
-            "konu": "Su Dalgaları"
+            "konu": "Su Dalgaları",
+            "id": "tfiz20"
          },
          {
-            "konu": "Ses ve Deprem Dalgaları"
+            "konu": "Ses ve Deprem Dalgaları",
+            "id": "tfiz21"
          }
       ],
       "tytkim": [
          {
-            "konu": "Kimya Bilimi"
+            "konu": "Kimya Bilimi",
+            "id": "tkim1"
          },
          {
-            "konu": "Atomun Yapısı"
+            "konu": "Atomun Yapısı",
+            "id": "tkim2"
          },
          {
-            "konu": "Periyodik Sistem"
+            "konu": "Periyodik Sistem",
+            "id": "tkim3"
          },
          {
-            "konu": "Kimyasal Türler Arası Etkileşim"
+            "konu": "Kimyasal Türler Arası Etkileşim",
+            "id": "tkim4"
          },
          {
-            "konu": "Asitler Bazlar ve Tuzlar"
+            "konu": "Asitler Bazlar ve Tuzlar",
+            "id": "tkim5"
          },
          {
-            "konu": "Bileşikler"
+            "konu": "Bileşikler",
+            "id": "tkim6"
          },
          {
-            "konu": "Kimyasal Tepkimeler"
+            "konu": "Kimyasal Tepkimeler",
+            "id": "tkim7"
          },
          {
-            "konu": "Kimyanın Temel Yasaları"
+            "konu": "Kimyanın Temel Yasaları",
+            "id": "tkim8"
          },
          {
-            "konu": "Maddenin Halleri"
+            "konu": "Maddenin Halleri",
+            "id": "tkim9"
          },
          {
-            "konu": "Karışımlar"
+            "konu": "Karışımlar",
+            "id": "tkim10"
          },
          {
-            "konu": "Endüstride ve Canlılarda Enerji"
+            "konu": "Endüstride ve Canlılarda Enerji",
+            "id": "tkim11"
          },
          {
-            "konu": "Kimya Heryerde"
+            "konu": "Kimya Heryerde",
+            "id": "tkim12"
          }
       ],
       "tytbio": [
          {
-            "konu": "Biyoloji Bilimi,İnorganik Bileşikler"
+            "konu": "Biyoloji Bilimi,İnorganik Bileşikler",
+            "id": "tbio1"
          },
          {
-            "konu": "Organik Bileşikler"
+            "konu": "Organik Bileşikler",
+            "id": "tbio2"
          },
          {
-            "konu": "Hücre"
+            "konu": "Hücre",
+            "id": "tbio3"
          },
          {
-            "konu": "Madde Geçişleri"
+            "konu": "Madde Geçişleri",
+            "id": "tbio4"
          },
          {
-            "konu": "DNA-RNA"
+            "konu": "DNA-RNA",
+            "id": "tbio5"
          },
          {
-            "konu": "Protein Sentezi"
+            "konu": "Protein Sentezi",
+            "id": "tbio6"
          },
          {
-            "konu": "Enzimler"
+            "konu": "Enzimler",
+            "id": "tbio7"
          },
          {
-            "konu": "Canlıların Sınıflandırılması"
+            "konu": "Canlıların Sınıflandırılması",
+            "id": "tbio8"
          },
          {
-            "konu": "Ekoloji"
+            "konu": "Ekoloji",
+            "id": "tbio9"
          },
          {
-            "konu": "Hücre Bölünmeleri"
+            "konu": "Hücre Bölünmeleri",
+            "id": "tbio10"
          },
          {
-            "konu": "Eşeyli Eşeysiz Üreme"
+            "konu": "Eşeyli Eşeysiz Üreme",
+            "id": "tbio11"
          },
          {
-            "konu": "İnsanda Üreme ve Gelişme"
+            "konu": "İnsanda Üreme ve Gelişme",
+            "id": "tbio12"
          },
          {
-            "konu": "Mendel Genetiği"
+            "konu": "Mendel Genetiği",
+            "id": "tbio13"
          },
          {
-            "konu": "Kan Grupları"
+            "konu": "Kan Grupları",
+            "id": "tbio14"
          },
          {
-            "konu": "Cinsiyete Bağlı Kalıtım"
+            "konu": "Cinsiyete Bağlı Kalıtım",
+            "id": "tbio15"
          }
       ]
    },
    "ayt": {
       "aytmat": [
          {
-            "konu": "Sayılar"
+            "konu": "Sayılar",
+            "id": "amat1"
          },
          {
-            "konu": "Sayı Basamakları"
+            "konu": "Sayı Basamakları",
+            "id": "amat2"
          },
          {
-            "konu": "Bölünebilme"
+            "konu": "Bölünebilme",
+            "id": "amat3"
          },
          {
-            "konu": "OBEB-OKEK"
+            "konu": "OBEB-OKEK",
+            "id": "amat4"
          },
          {
-            "konu": "Rasyonel Sayılar"
+            "konu": "Rasyonel Sayılar",
+            "id": "amat5"
          },
          {
-            "konu": "Basit Eşitsizlikler"
+            "konu": "Basit Eşitsizlikler",
+            "id": "amat6"
          },
          {
-            "konu": "Mutlak Değer"
+            "konu": "Mutlak Değer",
+            "id": "amat7"
          },
          {
-            "konu": "Üslü Sayılar"
+            "konu": "Üslü Sayılar",
+            "id": "amat8"
          },
          {
-            "konu": "Köklü Sayılar"
+            "konu": "Köklü Sayılar",
+            "id": "amat9"
          },
          {
-            "konu": "Çarpanlara Ayırma"
+            "konu": "Çarpanlara Ayırma",
+            "id": "amat10"
          },
          {
-            "konu": "Oran Orantı"
+            "konu": "Oran Orantı",
+            "id": "amat11"
          },
          {
-            "konu": "Denklem Çözme"
+            "konu": "Denklem Çözme",
+            "id": "amat12"
          },
          {
-            "konu": "Kümeler"
+            "konu": "Kümeler",
+            "id": "amat13"
          },
          {
-            "konu": "Fonksiyonlar"
+            "konu": "Fonksiyonlar",
+            "id": "amat14"
          },
          {
-            "konu": "Permütasyon"
+            "konu": "Permütasyon",
+            "id": "amat15"
          },
          {
-            "konu": "Kombinasyon"
+            "konu": "Kombinasyon",
+            "id": "amat16"
          },
          {
-            "konu": "Binom"
+            "konu": "Binom",
+            "id": "amat17"
          },
          {
-            "konu": "Olasılık"
+            "konu": "Olasılık",
+            "id": "amat18"
          },
          {
-            "konu": "İstatistik"
+            "konu": "İstatistik",
+            "id": "amat19"
          },
          {
-            "konu": "2. Dereceden Denklemler"
+            "konu": "2. Dereceden Denklemler",
+            "id": "amat20"
          },
          {
-            "konu": "Karmaşık Sayılar"
+            "konu": "Karmaşık Sayılar",
+            "id": "amat21"
          },
          {
-            "konu": "Parabol"
+            "konu": "Parabol",
+            "id": "amat22"
          },
          {
-            "konu": "Polinomlar"
+            "konu": "Polinomlar",
+            "id": "amat23"
          },
          {
-            "konu": "Mantık"
+            "konu": "Mantık",
+            "id": "amat24"
          },
          {
-            "konu": "Modüler Aritmetik"
+            "konu": "Modüler Aritmetik",
+            "id": "amat25"
          },
          {
-            "konu": "Eşitsizlikler"
+            "konu": "Eşitsizlikler",
+            "id": "amat26"
          },
          {
-            "konu": "Logaritma"
+            "konu": "Logaritma",
+            "id": "amat27"
          },
          {
-            "konu": "Diziler"
+            "konu": "Diziler",
+            "id": "amat28"
          },
          {
-            "konu": "Seriler"
+            "konu": "Seriler",
+            "id": "amat29"
          },
          {
-            "konu": "Limit ve Süreklilik"
+            "konu": "Limit ve Süreklilik",
+            "id": "amat30"
          },
          {
-            "konu": "Türev"
+            "konu": "Türev",
+            "id": "amat31"
          },
          {
-            "konu": "İntegral"
+            "konu": "İntegral",
+            "id": "amat32"
          },
          {
-            "konu": "Doğruda ve Üçgende Açılar"
+            "konu": "Doğruda ve Üçgende Açılar",
+            "id": "amat33"
          },
          {
-            "konu": "Dik ve Özel Üçgenler"
+            "konu": "Dik ve Özel Üçgenler",
+            "id": "amat34"
          },
          {
-            "konu": "Dik Üçgende Trigonometrik Bağıntılar"
+            "konu": "Dik Üçgende Trigonometrik Bağıntılar",
+            "id": "amat35"
          },
          {
-            "konu": "İkizkenar ve Eşkenar Üçgen"
+            "konu": "İkizkenar ve Eşkenar Üçgen",
+            "id": "amat36"
          },
          {
-            "konu": "Üçgende Alanlar"
+            "konu": "Üçgende Alanlar",
+            "id": "amat37"
          },
          {
-            "konu": "Üçgende Açıortay Bağıntıları"
+            "konu": "Üçgende Açıortay Bağıntıları",
+            "id": "amat38"
          },
          {
-            "konu": "Üçgende Kenarortay Bağıntıları"
+            "konu": "Üçgende Kenarortay Bağıntıları",
+            "id": "amat39"
          },
          {
-            "konu": "Üçgende Eşlik ve Benzerlik"
+            "konu": "Üçgende Eşlik ve Benzerlik",
+            "id": "amat40"
          },
          {
-            "konu": "Üçgende Açı Kenar Bağıntıları"
+            "konu": "Üçgende Açı Kenar Bağıntıları",
+            "id": "amat41"
          },
          {
-            "konu": "Çokgenler"
+            "konu": "Çokgenler",
+            "id": "amat42"
          },
          {
-            "konu": "Dörtgenler"
+            "konu": "Dörtgenler",
+            "id": "amat43"
          },
          {
-            "konu": "Yamuk"
+            "konu": "Yamuk",
+            "id": "amat44"
          },
          {
-            "konu": "Paralelkenar"
+            "konu": "Paralelkenar",
+            "id": "amat45"
          },
          {
-            "konu": "Eşkenar Dörtgen Deltoid"
+            "konu": "Eşkenar Dörtgen Deltoid",
+            "id": "amat46"
          },
          {
-            "konu": "Dikdörtgen"
+            "konu": "Dikdörtgen",
+            "id": "amat47"
          },
          {
-            "konu": "Çemberde Açılar"
+            "konu": "Çemberde Açılar",
+            "id": "amat48"
          },
          {
-            "konu": "Çemberde Uzunluk"
+            "konu": "Çemberde Uzunluk",
+            "id": "amat49"
          },
          {
-            "konu": "Daire"
+            "konu": "Daire",
+            "id": "amat50"
          },
          {
-            "konu": "Prizmalar"
+            "konu": "Prizmalar",
+            "id": "amat51"
          },
          {
-            "konu": "Küre"
+            "konu": "Küre",
+            "id": "amat52"
          },
          {
-            "konu": "Noktanın Analitiği"
+            "konu": "Noktanın Analitiği",
+            "id": "amat53"
          },
          {
-            "konu": "Doğrunun Analitiği"
+            "konu": "Doğrunun Analitiği",
+            "id": "amat54"
          },
          {
-            "konu": "Tekrar Eden Dönen Yansıyan Şekiller"
+            "konu": "Tekrar Eden Dönen Yansıyan Şekiller",
+            "id": "amat55"
          },
          {
-            "konu": "Uzay Geometrisi"
+            "konu": "Uzay Geometrisi",
+            "id": "amat56"
          },
          {
-            "konu": "Dönüşümlerde Geometri"
+            "konu": "Dönüşümlerde Geometri",
+            "id": "amat57"
          },
          {
-            "konu": "Trigonometri"
+            "konu": "Trigonometri",
+            "id": "amat58"
          },
          {
-            "konu": "Çemberin Analitiği"
+            "konu": "Çemberin Analitiği",
+            "id": "amat59"
          },
          {
-            "konu": "Konikler"
+            "konu": "Konikler",
+            "id": "amat60"
          }
       ],
       "aytedeb": [
          {
-            "konu": "Güzel Sanatlar ve Edebiyat"
+            "konu": "Güzel Sanatlar ve Edebiyat",
+            "id": "aedeb1"
          },
          {
-            "konu": "Metinlerin Sınıflandırılması"
+            "konu": "Metinlerin Sınıflandırılması",
+            "id": "aedeb2"
          },
          {
-            "konu": "Coşku ve Heyecan Dile Getiren Metinler"
+            "konu": "Coşku ve Heyecan Dile Getiren Metinler",
+            "id": "aedeb3"
          },
          {
-            "konu": "Şiir Bilgisi"
+            "konu": "Şiir Bilgisi",
+            "id": "aedeb4"
          },
          {
-            "konu": "Sözlü Anlatım Türleri"
+            "konu": "Sözlü Anlatım Türleri",
+            "id": "aedeb5"
          },
          {
-            "konu": "Edebi Sanatlar"
+            "konu": "Edebi Sanatlar",
+            "id": "aedeb6"
          },
          {
-            "konu": "Nazım Biçimleri ve Türleri"
+            "konu": "Nazım Biçimleri ve Türleri",
+            "id": "aedeb7"
          },
          {
-            "konu": "İslamiyet Kabulü Öncesi Türk Edebiyatı"
+            "konu": "İslamiyet Kabulü Öncesi Türk Edebiyatı",
+            "id": "aedeb8"
          },
          {
-            "konu": "İslami Dönem İlk Dil ve Edebiyat Ürünleri"
+            "konu": "İslami Dönem İlk Dil ve Edebiyat Ürünleri",
+            "id": "aedeb9"
          },
          {
-            "konu": "Oğuz Türkçesinin İlk Ürünleri"
+            "konu": "Oğuz Türkçesinin İlk Ürünleri",
+            "id": "aedeb10"
          },
          {
-            "konu": "Halk Edebiyati"
+            "konu": "Halk Edebiyati",
+            "id": "aedeb11"
          },
          {
-            "konu": "Divan Edebiyatı"
+            "konu": "Divan Edebiyatı",
+            "id": "aedeb12"
          },
          {
-            "konu": "Tanzimat Edebiyatı"
+            "konu": "Tanzimat Edebiyatı",
+            "id": "aedeb13"
          },
          {
-            "konu": "Servet-i Fünun Edebiyatı"
+            "konu": "Servet-i Fünun Edebiyatı",
+            "id": "aedeb14"
          },
          {
-            "konu": "Fecri-ti Edebiyatı"
+            "konu": "Fecri-ti Edebiyatı",
+            "id": "aedeb15"
          },
          {
-            "konu": "Milli Edebiyat"
+            "konu": "Milli Edebiyat",
+            "id": "aedeb16"
          },
          {
-            "konu": "Cumhuriyet Döneminde Türk Edebiyatı"
+            "konu": "Cumhuriyet Döneminde Türk Edebiyatı",
+            "id": "aedeb17"
          },
          {
-            "konu": "Türkiye Dışındaki Türk Edebiyatı"
+            "konu": "Türkiye Dışındaki Türk Edebiyatı",
+            "id": "aedeb18"
          },
          {
-            "konu": "Edebi Akımlar"
+            "konu": "Edebi Akımlar",
+            "id": "aedeb19"
          },
          {
-            "konu": "Dünya Edebiyatı"
+            "konu": "Dünya Edebiyatı",
+            "id": "aedeb20"
          },
          {
-            "konu": "Türk Edebiyatı Eser Özetleri"
+            "konu": "Türk Edebiyatı Eser Özetleri",
+            "id": "aedeb21"
          },
          {
-            "konu": "Türk ve Dünya Edebiyatında İlkler"
+            "konu": "Türk ve Dünya Edebiyatında İlkler",
+            "id": "aedeb22"
          }
       ],
       "aytcog1": [
          {
-            "konu": "Doğal Sistemler"
+            "konu": "Doğal Sistemler",
+            "id": "acog11"
          },
          {
-            "konu": "Beşeri Sistemler"
+            "konu": "Beşeri Sistemler",
+            "id": "acog12"
          },
          {
-            "konu": "Mekansal Sentez Türkiye"
+            "konu": "Mekansal Sentez Türkiye",
+            "id": "acog13"
          },
          {
-            "konu": "Küresel Ortam: Bölgeler ve Ülkeler"
+            "konu": "Küresel Ortam: Bölgeler ve Ülkeler",
+            "id": "acog14"
          },
          {
-            "konu": "Çevre ve Toplum"
+            "konu": "Çevre ve Toplum",
+            "id": "acog15"
          },
          {
-            "konu": "Ekonomik Faaliyetler"
+            "konu": "Ekonomik Faaliyetler",
+            "id": "acog16"
          }
       ],
       "ayttar1": [
          {
-            "konu": "Tarih Bilimine Giriş"
+            "konu": "Tarih Bilimine Giriş",
+            "id": "atar11"
          },
          {
-            "konu": "Uyg. Doğuşu ve İlk Uygarlıklar"
+            "konu": "Uyg. Doğuşu ve İlk Uygarlıklar",
+            "id": "atar12"
          },
          {
-            "konu": "Eski Türk Tarihi"
+            "konu": "Eski Türk Tarihi",
+            "id": "atar13"
          },
          {
-            "konu": "İslam Tarihi ve Uygarlığı"
+            "konu": "İslam Tarihi ve Uygarlığı",
+            "id": "atar14"
          },
          {
-            "konu": "Türk-İslam Devletleri"
+            "konu": "Türk-İslam Devletleri",
+            "id": "atar15"
          },
          {
-            "konu": "Türkiye Tarihi"
+            "konu": "Türkiye Tarihi",
+            "id": "atar16"
          },
          {
-            "konu": "Orta Çağ'da Avrupa"
+            "konu": "Orta Çağ'da Avrupa",
+            "id": "atar17"
          },
          {
-            "konu": "Beylikten Devlete(1300-1453}"
+            "konu": "Beylikten Devlete(1300-1453}",
+            "id": "atar18"
          },
          {
-            "konu": "Dünya Gücü Osmanlı Devleti(1453-1600}"
+            "konu": "Dünya Gücü Osmanlı Devleti(1453-1600}",
+            "id": "atar19"
          },
          {
-            "konu": "Arayış Yılları(17. Yüzyıl)"
+            "konu": "Arayış Yılları(17. Yüzyıl)",
+            "id": "atar110"
          },
          {
-            "konu": "Yeni Çağ'da Avrupa"
+            "konu": "Yeni Çağ'da Avrupa",
+            "id": "atar111"
          },
          {
-            "konu": "Osmanlı Kültür ve Medeniyeti"
+            "konu": "Osmanlı Kültür ve Medeniyeti",
+            "id": "atar112"
          },
          {
-            "konu": "Avrupa ve Osmanlı Devleti(18. Yüzyıl)"
+            "konu": "Avrupa ve Osmanlı Devleti(18. Yüzyıl)",
+            "id": "atar113"
          },
          {
-            "konu": "En Uzun Yüzyıl(1800-1922)"
+            "konu": "En Uzun Yüzyıl(1800-1922)",
+            "id": "atar114"
          },
          {
-            "konu": "1881'den 199'a Mustafa Kemal"
+            "konu": "1881'den 199'a Mustafa Kemal",
+            "id": "atar115"
          },
          {
-            "konu": "Kurtuluş Savaşı Hazırlık Dönemi"
+            "konu": "Kurtuluş Savaşı Hazırlık Dönemi",
+            "id": "atar116"
          },
          {
-            "konu": "Kurtuluş Savaşı'nda Cepheler"
+            "konu": "Kurtuluş Savaşı'nda Cepheler",
+            "id": "atar117"
          },
          {
-            "konu": "Türk İnkılabı"
+            "konu": "Türk İnkılabı",
+            "id": "atar118"
          },
          {
-            "konu": "Atatürkçülük ve Atatürk İlkeleri"
+            "konu": "Atatürkçülük ve Atatürk İlkeleri",
+            "id": "atar119"
          },
          {
-            "konu": "Atatürk Dönemi Türk Dış Politikası"
+            "konu": "Atatürk Dönemi Türk Dış Politikası",
+            "id": "atar120"
          }
       ],
       "Say": {
          "aytfiz": [
             {
-               "konu": "Vektörler"
+               "konu": "Vektörler",
+               "id": "afiz1"
             },
             {
-               "konu": "Tork"
+               "konu": "Tork",
+               "id": "afiz2"
             },
             {
-               "konu": "Ağırlık Merkezi"
+               "konu": "Ağırlık Merkezi",
+               "id": "afiz3"
             },
             {
-               "konu": "Basit Makineler"
+               "konu": "Basit Makineler",
+               "id": "afiz4"
             },
             {
-               "konu": "Madde ve Özellikleri"
+               "konu": "Madde ve Özellikleri",
+               "id": "afiz5"
             },
             {
-               "konu": "Sıvıların Kaldırma Kuvveti"
+               "konu": "Sıvıların Kaldırma Kuvveti",
+               "id": "afiz6"
             },
             {
-               "konu": "Basınç"
+               "konu": "Basınç",
+               "id": "afiz7"
             },
             {
-               "konu": "Isı ve Sıcaklık"
+               "konu": "Isı ve Sıcaklık",
+               "id": "afiz8"
             },
             {
-               "konu": "Genleşme"
+               "konu": "Genleşme",
+               "id": "afiz9"
             },
             {
-               "konu": "Doğrusal Hareket"
+               "konu": "Doğrusal Hareket",
+               "id": "afiz10"
             },
             {
-               "konu": "Bağıl Hareket"
+               "konu": "Bağıl Hareket",
+               "id": "afiz11"
             },
             {
-               "konu": "Dinamik"
+               "konu": "Dinamik",
+               "id": "afiz12"
             },
             {
-               "konu": "Atışlar"
+               "konu": "Atışlar",
+               "id": "afiz13"
             },
             {
-               "konu": "İş Enerji"
+               "konu": "İş Enerji",
+               "id": "afiz14"
             },
             {
-               "konu": "Dönme Hareketi"
+               "konu": "Dönme Hareketi",
+               "id": "afiz15"
             },
             {
-               "konu": "Basit Harmonik Hareket"
+               "konu": "Basit Harmonik Hareket",
+               "id": "afiz16"
             },
             {
-               "konu": "Itma Momentum"
+               "konu": "Itma Momentum",
+               "id": "afiz17"
             },
             {
-               "konu": "Kütle Çekimi Kepler Büyük Patlama"
+               "konu": "Kütle Çekimi Kepler Büyük Patlama",
+               "id": "afiz18"
             },
             {
-               "konu": "Işık ve Gölge"
+               "konu": "Işık ve Gölge",
+               "id": "afiz19"
             },
             {
-               "konu": "Düzlem Ayna"
+               "konu": "Düzlem Ayna",
+               "id": "afiz20"
             },
             {
-               "konu": "Küresel Aynalar"
+               "konu": "Küresel Aynalar",
+               "id": "afiz21"
             },
             {
-               "konu": "Kırılma ve Renkler"
+               "konu": "Kırılma ve Renkler",
+               "id": "afiz22"
             },
             {
-               "konu": "Mercekler ve Aydınlanma"
+               "konu": "Mercekler ve Aydınlanma",
+               "id": "afiz23"
             },
             {
-               "konu": "Elektrostatik"
+               "konu": "Elektrostatik",
+               "id": "afiz24"
             },
             {
-               "konu": "Elektrik Alan Elektriksel Potansitel ve İş"
+               "konu": "Elektrik Alan Elektriksel Potansitel ve İş",
+               "id": "afiz25"
             },
             {
-               "konu": "Yüklü Parçacıkların Hareketi"
+               "konu": "Yüklü Parçacıkların Hareketi",
+               "id": "afiz26"
             },
             {
-               "konu": "Elektrik Akımı ve Devreler"
+               "konu": "Elektrik Akımı ve Devreler",
+               "id": "afiz27"
             },
             {
-               "konu": "Temel Dalga Bilgileri"
+               "konu": "Temel Dalga Bilgileri",
+               "id": "afiz28"
             },
             {
-               "konu": "Yay Dalgaları"
+               "konu": "Yay Dalgaları",
+               "id": "afiz29"
             },
             {
-               "konu": "Su Dalgaları"
+               "konu": "Su Dalgaları",
+               "id": "afiz30"
             },
             {
-               "konu": "Ses ve Deprem Dalgaları"
+               "konu": "Ses ve Deprem Dalgaları",
+               "id": "afiz31"
             },
             {
-               "konu": "Manyetizma"
+               "konu": "Manyetizma",
+               "id": "afiz32"
             },
             {
-               "konu": "Elektromanyetik İndüksüyon"
+               "konu": "Elektromanyetik İndüksüyon",
+               "id": "afiz33"
             },
             {
-               "konu": "Sığaçlar"
+               "konu": "Sığaçlar",
+               "id": "afiz34"
             },
             {
-               "konu": "Alternatif Akım ve Transformatör"
+               "konu": "Alternatif Akım ve Transformatör",
+               "id": "afiz35"
             },
             {
-               "konu": "Dalga Mekaniği"
+               "konu": "Dalga Mekaniği",
+               "id": "afiz36"
             },
             {
-               "konu": "Elektromanyetik Dalgalar"
+               "konu": "Elektromanyetik Dalgalar",
+               "id": "afiz37"
             },
             {
-               "konu": "Fotoelektrik ve Compton Olayı"
+               "konu": "Fotoelektrik ve Compton Olayı",
+               "id": "afiz38"
             },
             {
-               "konu": "Özel Görelilik"
+               "konu": "Özel Görelilik",
+               "id": "afiz39"
             },
             {
-               "konu": "Atom Modelleri"
+               "konu": "Atom Modelleri",
+               "id": "afiz40"
             },
             {
-               "konu": "Atom Altı Parçacıklar"
+               "konu": "Atom Altı Parçacıklar",
+               "id": "afiz41"
             },
             {
-               "konu": "Radyoaktivite"
+               "konu": "Radyoaktivite",
+               "id": "afiz42"
             },
             {
-               "konu": "Modern Fizik Uygulamaları"
+               "konu": "Modern Fizik Uygulamaları",
+               "id": "afiz43"
             }
          ],
          "aytbio": [
             {
-               "konu": "Biyoloji Bilimi, İnorganik Bileşikler"
+               "konu": "Biyoloji Bilimi, İnorganik Bileşikler",
+               "id": "abio1"
             },
             {
-               "konu": "Organik Bileşikler"
+               "konu": "Organik Bileşikler",
+               "id": "abio2"
             },
             {
-               "konu": "Hücre"
+               "konu": "Hücre",
+               "id": "abio3"
             },
             {
-               "konu": "Madde Geçişleri"
+               "konu": "Madde Geçişleri",
+               "id": "abio4"
             },
             {
-               "konu": "Dna-Rna"
+               "konu": "Dna-Rna",
+               "id": "abio5"
             },
             {
-               "konu": "Protein Sentezi"
+               "konu": "Protein Sentezi",
+               "id": "abio6"
             },
             {
-               "konu": "Enzimler"
+               "konu": "Enzimler",
+               "id": "abio7"
             },
             {
-               "konu": "Canlıların Sınıflandırılması"
+               "konu": "Canlıların Sınıflandırılması",
+               "id": "abio8"
             },
             {
-               "konu": "Ekoloji"
+               "konu": "Ekoloji",
+               "id": "abio9"
             },
             {
-               "konu": "Hücre Bölünmeleri"
+               "konu": "Hücre Bölünmeleri",
+               "id": "abio10"
             },
             {
-               "konu": "Eşeysiz-Eşeyli Üreme"
+               "konu": "Eşeysiz-Eşeyli Üreme",
+               "id": "abio11"
             },
             {
-               "konu": "İnsanda üreme ve Gelişme"
+               "konu": "İnsanda üreme ve Gelişme",
+               "id": "abio12"
             },
             {
-               "konu": "Mendel Genetiği"
+               "konu": "Mendel Genetiği",
+               "id": "abio13"
             },
             {
-               "konu": "Kan Grupları"
+               "konu": "Kan Grupları",
+               "id": "abio14"
             },
             {
-               "konu": "Cinsiyete Bağlı Kalıtım"
+               "konu": "Cinsiyete Bağlı Kalıtım",
+               "id": "abio15"
             },
             {
-               "konu": "Biyoteknoloji"
+               "konu": "Biyoteknoloji",
+               "id": "abio16"
             },
             {
-               "konu": "Solunum"
+               "konu": "Solunum",
+               "id": "abio17"
             },
             {
-               "konu": "Fotosentez"
+               "konu": "Fotosentez",
+               "id": "abio18"
             },
             {
-               "konu": "Kemosentez"
+               "konu": "Kemosentez",
+               "id": "abio19"
             },
             {
-               "konu": "Sistemler"
+               "konu": "Sistemler",
+               "id": "abio20"
             },
             {
-               "konu": "Duyu Organları"
+               "konu": "Duyu Organları",
+               "id": "abio21"
             },
             {
-               "konu": "Bitki Biyolojisi"
+               "konu": "Bitki Biyolojisi",
+               "id": "abio22"
             }
          ],
          "aytkim": [
             {
-               "konu": "Modern Atom Teorisi"
+               "konu": "Modern Atom Teorisi",
+               "id": "akim1"
             },
             {
-               "konu": "Kimyasal Hesaplamalar"
+               "konu": "Kimyasal Hesaplamalar",
+               "id": "akim2"
             },
             {
-               "konu": "Gazlar"
+               "konu": "Gazlar",
+               "id": "akim3"
             },
             {
-               "konu": "Sıvı Çözeltiler"
+               "konu": "Sıvı Çözeltiler",
+               "id": "akim4"
             },
             {
-               "konu": "Kimya ve Enerji"
+               "konu": "Kimya ve Enerji",
+               "id": "akim5"
             },
             {
-               "konu": "Tepkimelerde Hız"
+               "konu": "Tepkimelerde Hız",
+               "id": "akim6"
             },
             {
-               "konu": "Kimyasal Denge"
+               "konu": "Kimyasal Denge",
+               "id": "akim7"
             },
             {
-               "konu": "Sıvı Çözeltilerde Denge"
+               "konu": "Sıvı Çözeltilerde Denge",
+               "id": "akim8"
             },
             {
-               "konu": "Kimya ve Elektrik"
+               "konu": "Kimya ve Elektrik",
+               "id": "akim9"
             },
             {
-               "konu": "Karbon Kimyasına Giriş"
+               "konu": "Karbon Kimyasına Giriş",
+               "id": "akim10"
             },
             {
-               "konu": "Organik Kimya"
+               "konu": "Organik Kimya",
+               "id": "akim11"
             },
             {
-               "konu": "Hayatımızdaki Kimya"
+               "konu": "Hayatımızdaki Kimya",
+               "id": "akim12"
             }
          ]
       },
       "soz": {
          "ayttar2": [
             {
-               "konu": "Tarih Bilimi"
+               "konu": "Tarih Bilimi",
+               "id": "atar21"
             },
             {
-               "konu": "Uygarlığın Doğuşu ve İlk Uygarlıklar"
+               "konu": "Uygarlığın Doğuşu ve İlk Uygarlıklar",
+               "id": "atar22"
             },
             {
-               "konu": "İlk Türk Devletleri"
+               "konu": "İlk Türk Devletleri",
+               "id": "atar23"
             },
             {
-               "konu": "İslam Tarihi ve Uygarlığı"
+               "konu": "İslam Tarihi ve Uygarlığı",
+               "id": "atar24"
             },
             {
-               "konu": "Türk-İslam Devletleri"
+               "konu": "Türk-İslam Devletleri",
+               "id": "atar25"
             },
             {
-               "konu": "Türkiye Tarihi"
+               "konu": "Türkiye Tarihi",
+               "id": "atar26"
             },
             {
-               "konu": "Beylikten Devlete (1300-1453)"
+               "konu": "Beylikten Devlete (1300-1453)",
+               "id": "atar27"
             },
             {
-               "konu": "Dünya Gücü: Osmanlı Devleti (1453-1600)"
+               "konu": "Dünya Gücü: Osmanlı Devleti (1453-1600)",
+               "id": "atar28"
             },
             {
-               "konu": "Arayış Yılları (17. Yüzyıl)"
+               "konu": "Arayış Yılları (17. Yüzyıl)",
+               "id": "atar29"
             },
             {
-               "konu": "Avrupa ve Osmanlı Devleti (18. Yüzyıl)"
+               "konu": "Avrupa ve Osmanlı Devleti (18. Yüzyıl)",
+               "id": "atar210"
             },
             {
-               "konu": "En Uzun Yüzyıl (1800-1922)"
+               "konu": "En Uzun Yüzyıl (1800-1922)",
+               "id": "atar211"
             },
             {
-               "konu": "1881’den 1919’a Mustafa Kemal"
+               "konu": "1881’den 1919’a Mustafa Kemal",
+               "id": "atar212"
             },
             {
-               "konu": "Milli Mücadele'nin Hazırlık Dönemi"
+               "konu": "Milli Mücadele'nin Hazırlık Dönemi",
+               "id": "atar213"
             },
             {
-               "konu": "Kurtuluş Savaşı'nda Cepheler"
+               "konu": "Kurtuluş Savaşı'nda Cepheler",
+               "id": "atar214"
             },
             {
-               "konu": "Türk İnkılabı"
+               "konu": "Türk İnkılabı",
+               "id": "atar215"
             },
             {
-               "konu": "Atatürkçülük ve Atatürk İlkeleri"
+               "konu": "Atatürkçülük ve Atatürk İlkeleri",
+               "id": "atar216"
             },
             {
-               "konu": "Türk Dış Politikası"
+               "konu": "Türk Dış Politikası",
+               "id": "atar217"
             },
             {
-               "konu": "Atatürk'ün Ölümü"
+               "konu": "Atatürk'ün Ölümü",
+               "id": "atar218"
             },
             {
-               "konu": "Yüzyılın Başlarında Dünya"
+               "konu": "Yüzyılın Başlarında Dünya",
+               "id": "atar219"
             },
             {
-               "konu": "İkinci Dünya Savaşı"
+               "konu": "İkinci Dünya Savaşı",
+               "id": "atar220"
             },
             {
-               "konu": "Soğuk Savaş Dönemi"
+               "konu": "Soğuk Savaş Dönemi",
+               "id": "atar221"
             },
             {
-               "konu": "Yumuşama Dönemi ve Sonrası"
+               "konu": "Yumuşama Dönemi ve Sonrası",
+               "id": "atar222"
             },
             {
-               "konu": "Küreselleşen Dünya"
+               "konu": "Küreselleşen Dünya",
+               "id": "atar223"
             },
             {
-               "konu": "Türklerde Devlet Teşkilatı"
+               "konu": "Türklerde Devlet Teşkilatı",
+               "id": "atar224"
             },
             {
-               "konu": "Türklerde Toplum Yapısı"
+               "konu": "Türklerde Toplum Yapısı",
+               "id": "atar225"
             },
             {
-               "konu": "Türklerde Hukuk"
+               "konu": "Türklerde Hukuk",
+               "id": "atar226"
             },
             {
-               "konu": "Türklerde Ekonomi"
+               "konu": "Türklerde Ekonomi",
+               "id": "atar227"
             },
             {
-               "konu": "Türklerde Eğitim"
+               "konu": "Türklerde Eğitim",
+               "id": "atar228"
             },
             {
-               "konu": "Türklerde Sanat"
+               "konu": "Türklerde Sanat",
+               "id": "atar229"
             }
          ],
          "aytcog2": [
             {
-               "konu": "Doğal Sistemler"
+               "konu": "Doğal Sistemler",
+               "id": "acog21"
             },
             {
-               "konu": "Beşeri Sistemler"
+               "konu": "Beşeri Sistemler",
+               "id": "acog22"
             },
             {
-               "konu": "Mekansal Sentez Türkiye"
+               "konu": "Mekansal Sentez Türkiye",
+               "id": "acog23"
             },
             {
-               "konu": "Küresel Ortam: Bölgeler ve Ülkeler"
+               "konu": "Küresel Ortam: Bölgeler ve Ülkeler",
+               "id": "acog24"
             },
             {
-               "konu": "Çevre ve Toplum"
+               "konu": "Çevre ve Toplum",
+               "id": "acog25"
             },
             {
-               "konu": "Ekonomik Faaliyetler"
+               "konu": "Ekonomik Faaliyetler",
+               "id": "acog26"
             }
          ],
          "aytfel": [
             {
-               "konu": "Felsefenin Alanı"
+               "konu": "Felsefenin Alanı",
+               "id": "afel21"
             },
             {
-               "konu": "Bilgi Felsefesi"
+               "konu": "Bilgi Felsefesi",
+               "id": "afel22"
             },
             {
-               "konu": "Bilim Felsefesi"
+               "konu": "Bilim Felsefesi",
+               "id": "afel23"
             },
             {
-               "konu": "Varlık Felsefesi"
+               "konu": "Varlık Felsefesi",
+               "id": "afel24"
             },
             {
-               "konu": "Ahlak Felsefesi"
+               "konu": "Ahlak Felsefesi",
+               "id": "afel25"
             },
             {
-               "konu": "Siyaset Felsefesi"
+               "konu": "Siyaset Felsefesi",
+               "id": "afel26"
             },
             {
-               "konu": "Sanat Felsefesi"
+               "konu": "Sanat Felsefesi",
+               "id": "afel27"
             },
             {
-               "konu": "Din Felsefesi"
+               "konu": "Din Felsefesi",
+               "id": "afel28"
             },
             {
-               "konu": "Mantığa Giriş"
+               "konu": "Mantığa Giriş",
+               "id": "afel29"
             },
             {
-               "konu": "Klasik Mantık"
+               "konu": "Klasik Mantık",
+               "id": "afel210"
             },
             {
-               "konu": "Mantık ve Dil"
+               "konu": "Mantık ve Dil",
+               "id": "afel211"
             },
             {
-               "konu": "Sembolik Mantık"
+               "konu": "Sembolik Mantık",
+               "id": "afel212"
             },
             {
-               "konu": "Psikoloji Bilimini Tanıyalım"
+               "konu": "Psikoloji Bilimini Tanıyalım",
+               "id": "afel213"
             },
             {
-               "konu": "Psikolojinin Temel Süreçleri"
+               "konu": "Psikolojinin Temel Süreçleri",
+               "id": "afel214"
             },
             {
-               "konu": "Öğrenme Bellek Düşünme"
+               "konu": "Öğrenme Bellek Düşünme",
+               "id": "afel215"
             },
             {
-               "konu": "Ruh Sağlığının Temelleri"
+               "konu": "Ruh Sağlığının Temelleri",
+               "id": "afel216"
             },
             {
-               "konu": "Sosyolojiye Giriş"
+               "konu": "Sosyolojiye Giriş",
+               "id": "afel217"
             },
             {
-               "konu": "Birey ve Toplum"
+               "konu": "Birey ve Toplum",
+               "id": "afel218"
             },
             {
-               "konu": "Toplumsal Yapı"
+               "konu": "Toplumsal Yapı",
+               "id": "afel219"
             },
             {
-               "konu": "Toplumsal Değişme ve Gelişme"
+               "konu": "Toplumsal Değişme ve Gelişme",
+               "id": "afel220"
             },
             {
-               "konu": "Toplum ve Kültür"
+               "konu": "Toplum ve Kültür",
+               "id": "afel221"
             },
             {
-               "konu": "Toplumsal Kurumlar"
+               "konu": "Toplumsal Kurumlar",
+               "id": "afel222"
             },
             {
-               "konu": "Kur’an-ı Kerim’in Anlaşılması ve Kavranması"
+               "konu": "Kur’an-ı Kerim’in Anlaşılması ve Kavranması",
+               "id": "afel223"
             },
             {
-               "konu": "İnsan ve Din"
+               "konu": "İnsan ve Din",
+               "id": "afel224"
             },
             {
-               "konu": "İslam ve İbadetler"
+               "konu": "İslam ve İbadetler",
+               "id": "afel225"
             },
             {
-               "konu": "İslam Düşüncesinde Yorumlar, Mezhepler"
+               "konu": "İslam Düşüncesinde Yorumlar, Mezhepler",
+               "id": "afel226"
             },
             {
-               "konu": "Muhammed’in Hayatı, Örnekliği ve Onu Anlama."
+               "konu": "Muhammed’in Hayatı, Örnekliği ve Onu Anlama.",
+               "id": "afel227"
             },
             {
-               "konu": "İslam ve Bilim, Estetik, Barış"
+               "konu": "İslam ve Bilim, Estetik, Barış",
+               "id": "afel228"
             },
             {
-               "konu": "Yaşayan Dinler ve Benzer Özellikleri"
+               "konu": "Yaşayan Dinler ve Benzer Özellikleri",
+               "id": "afel229"
             }
          ]
       }
